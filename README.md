@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @siramong
-- 👀 I’m interested in learn to program Videogames
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on at the moment, nothing
-- 📫 How to reach me: In Discord!: SirAmong#1868
+- 👀 I’m interested in learning Discord Bots, Node.js and Fullstack Dev
+- 🌱 I’m currently learning Software Engineering
+- 📫 How to reach me: @siramong in Discord
 
 <!---
 siramong/siramong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
