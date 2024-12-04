@@ -74,7 +74,20 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,mongodb,discord,discordjs,flutter,html,css,vscode,unity,unreal,windows,ubuntu,python,ps,java,nodejs,github,c#,blender,arduino&perline=5" />
+    <img src="https://skillicons.dev/icons?i=aws,mongodb,discord,discordjs,html,css,vscode,unity,unreal,windows,ubuntu,python,ps,java,nodejs,github,c#,blender,arduino&perline=5" />
+  </a>
+</p>
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I'm Learning🎓</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,ts,js&perline=5" />
   </a>
 </p>
 
