@@ -20,7 +20,7 @@
 <h4 align="left">Software Development</h4>
 
 
-![Python](https://skillicons.dev/icons?i=py) ![Java](https://skillicons.dev/icons?i=java) ![C#](https://skillicons.dev/icons?i=cs) ![Lua](https://skillicons.dev/icons?i=lua) )
+![Python](https://skillicons.dev/icons?i=py) ![Java](https://skillicons.dev/icons?i=java) ![C#](https://skillicons.dev/icons?i=cs) ![Lua](https://skillicons.dev/icons?i=lua)
 
 
 <h4 align="left">Design</h4>
@@ -41,7 +41,7 @@
 
 ![VSCode](https://skillicons.dev/icons?i=vscode) ![Android Studio](https://skillicons.dev/icons?i=androidstudio) ![Ubuntu](https://skillicons.dev/icons?i=ubuntu) ![Unity](https://skillicons.dev/icons?i=unity) ![Unreal Engine](https://skillicons.dev/icons?i=unreal) ![Mint](https://skillicons.dev/icons?i=mint)
 ![Arduino](https://skillicons.dev/icons?i=arduino) ![Arch Linux](https://skillicons.dev/icons?i=arch)
-![Vercel](https://skillicons.dev/icons?i=vercel) ![GitHub](https://skillicons.dev/icons?i=github) ![Docker](https://skillicons.dev/icons?i=docker) ![Git](https://skillicons.dev/icons?i=git
+![Vercel](https://skillicons.dev/icons?i=vercel) ![GitHub](https://skillicons.dev/icons?i=github) ![Docker](https://skillicons.dev/icons?i=docker) ![Git](https://skillicons.dev/icons?i=git)
 
 
 <h4 align="left">Platforms</h4>
