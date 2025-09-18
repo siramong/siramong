@@ -27,6 +27,7 @@
 
 
 ![Figma](https://skillicons.dev/icons?i=figma) ![Blender](https://skillicons.dev/icons?i=blender) ![Photoshop](https://skillicons.dev/icons?i=ps) ![Premiere](https://skillicons.dev/icons?i=pr)
+![Illustrator](https://skillicons.dev/icons?i=ai)
 
 
 <h4 align="left">DB and Cloud</h4>
@@ -49,7 +50,7 @@
 
 <h4 align="left">Other Tools</h4>
 
-![Arduino](https://skillicons.dev/icons?i=arduino) ![Arch Linux](https://skillicons.dev/icons?i=arch) ![Bash](https://skillicons.dev/icons?i=bash) ![AI](https://skillicons.dev/icons?i=ai) ![Markdown](https://skillicons.dev/icons?i=md) ![NPM](https://skillicons.dev/icons?i=npm) ![CS](https://skillicons.dev/icons?i=cs)
+![Arduino](https://skillicons.dev/icons?i=arduino) ![Arch Linux](https://skillicons.dev/icons?i=arch) ![Bash](https://skillicons.dev/icons?i=bash)  ![Markdown](https://skillicons.dev/icons?i=md) ![NPM](https://skillicons.dev/icons?i=npm) ![CS](https://skillicons.dev/icons?i=cs)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siramong&show_icons=true&locale=en&layout=compact" alt="siramong" /></p>
 
