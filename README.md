@@ -40,7 +40,7 @@
 
 
 ![VSCode](https://skillicons.dev/icons?i=vscode) ![Android Studio](https://skillicons.dev/icons?i=androidstudio) ![Ubuntu](https://skillicons.dev/icons?i=ubuntu) ![Unity](https://skillicons.dev/icons?i=unity) ![Unreal Engine](https://skillicons.dev/icons?i=unreal) ![Mint](https://skillicons.dev/icons?i=mint)
-![Arduino](https://skillicons.dev/icons?i=arduino) ![Arch Linux](https://skillicons.dev/icons?i=arch) !
+![Arduino](https://skillicons.dev/icons?i=arduino) ![Arch Linux](https://skillicons.dev/icons?i=arch)
 
 
 <h4 align="left">Platforms</h4>
@@ -51,7 +51,7 @@
 
 <h4 align="left">Other Tools</h4>
 
-[Bash](https://skillicons.dev/icons?i=bash)  ![Markdown](https://skillicons.dev/icons?i=md) ![NPM](https://skillicons.dev/icons?i=npm)
+1[Bash](https://skillicons.dev/icons?i=bash)  ![Markdown](https://skillicons.dev/icons?i=md) ![NPM](https://skillicons.dev/icons?i=npm)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siramong&show_icons=true&locale=en&layout=compact" alt="siramong" /></p>
 
