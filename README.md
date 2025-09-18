@@ -51,7 +51,7 @@
 
 <h4 align="left">Other Tools</h4>
 
-1[Bash](https://skillicons.dev/icons?i=bash)  ![Markdown](https://skillicons.dev/icons?i=md) ![NPM](https://skillicons.dev/icons?i=npm)
+![Bash](https://skillicons.dev/icons?i=bash)  ![Markdown](https://skillicons.dev/icons?i=md) ![NPM](https://skillicons.dev/icons?i=npm)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siramong&show_icons=true&locale=en&layout=compact" alt="siramong" /></p>
 
