@@ -14,13 +14,13 @@
 <h4 align="left">Web Development</h4>
 
 
-![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) ![React](https://skillicons.dev/icons?i=react) ![Vue](https://skillicons.dev/icons?i=vue) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Vercel](https://skillicons.dev/icons?i=vercel) ![GitHub](https://skillicons.dev/icons?i=github)
+![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) ![React](https://skillicons.dev/icons?i=react) ![Vue](https://skillicons.dev/icons?i=vue) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Next.js](https://skillicons.dev/icons?i=nextjs) 
 
 
 <h4 align="left">Software Development</h4>
 
 
-![Python](https://skillicons.dev/icons?i=py) ![Java](https://skillicons.dev/icons?i=java) ![C#](https://skillicons.dev/icons?i=cs) ![Lua](https://skillicons.dev/icons?i=lua) ![Docker](https://skillicons.dev/icons?i=docker) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github)
+![Python](https://skillicons.dev/icons?i=py) ![Java](https://skillicons.dev/icons?i=java) ![C#](https://skillicons.dev/icons?i=cs) ![Lua](https://skillicons.dev/icons?i=lua) )
 
 
 <h4 align="left">Design</h4>
@@ -41,6 +41,7 @@
 
 ![VSCode](https://skillicons.dev/icons?i=vscode) ![Android Studio](https://skillicons.dev/icons?i=androidstudio) ![Ubuntu](https://skillicons.dev/icons?i=ubuntu) ![Unity](https://skillicons.dev/icons?i=unity) ![Unreal Engine](https://skillicons.dev/icons?i=unreal) ![Mint](https://skillicons.dev/icons?i=mint)
 ![Arduino](https://skillicons.dev/icons?i=arduino) ![Arch Linux](https://skillicons.dev/icons?i=arch)
+![Vercel](https://skillicons.dev/icons?i=vercel) ![GitHub](https://skillicons.dev/icons?i=github) ![Docker](https://skillicons.dev/icons?i=docker) ![Git](https://skillicons.dev/icons?i=git
 
 
 <h4 align="left">Platforms</h4>
